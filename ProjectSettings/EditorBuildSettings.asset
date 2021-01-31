@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Init.unity
+    guid: 69c044497cbfde84abdba09958ec5c61
+  - enabled: 1
+    path: Assets/Scenes/SimpleTown_DemoScene.unity
+    guid: 21ba8959b0b9c5e41889da424bb00b0b
+  m_configObjects: {}
